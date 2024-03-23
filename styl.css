@@ -1,0 +1,35 @@
+
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  th {
+    background-color: aqua;
+  }
+
+  p {
+    background-color: yellow;
+    color: red;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 20px;
+  }
+
+  .naglowek {
+    font-size: 20px;
+  }
+
+.photo {
+    float: inline-start;
+
+}
+
+#zad6 {
+    float: left;
+}

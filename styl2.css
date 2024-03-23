@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif
+}
+.po_naglowku {
+    background-color: blue;
+}
+
+.po_paragrafie {
+    margin-top: 60px;
+}
